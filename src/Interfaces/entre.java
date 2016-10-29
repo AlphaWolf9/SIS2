@@ -11,6 +11,6 @@ package Interfaces;
  */
 public class entre {
     public static void main(String[]args ){
-        System.out.println("comida");
+        System.out.println("hola");
     }
 }
