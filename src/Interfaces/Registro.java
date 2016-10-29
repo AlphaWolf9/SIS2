@@ -6,7 +6,7 @@
 package Interfaces;
 
 /**
- *
+ *modificacion miguel
  * @author MAYKOL
  */
 public class Registro extends javax.swing.JFrame {
