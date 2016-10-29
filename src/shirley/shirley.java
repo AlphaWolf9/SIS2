@@ -3,15 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Interfaces;
+package shirley;
 
 /**
  *
- * @author migi
+ * @author Shir
  */
-public class entre {
-    public static void main(String[]args ){
-        System.out.println("hola");
-        System.out.println("para levantar la moral1");
+public class shirley {
+    public static void main(String ...a){
+    System.out.println("ELEVEN");
     }
 }
