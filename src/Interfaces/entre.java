@@ -12,5 +12,6 @@ package Interfaces;
 public class entre {
     public static void main(String[]args ){
         System.out.println("hola");
+        System.out.println("para levantar la moral");
     }
 }
