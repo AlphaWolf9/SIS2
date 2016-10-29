@@ -10,5 +10,7 @@ package Interfaces;
  * @author migi
  */
 public class entre {
-    public static void main(String[]args ){}
+    public static void main(String[]args ){
+        System.out.println("comida");
+    }
 }
